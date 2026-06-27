@@ -16,3 +16,6 @@ label_simple = "Sumit"
 
 encoded_string = label_simple.encode("utf-8")
 print(encoded_string)
+
+
+decoded_string = encoded_string.decode("utf-8")
