@@ -1,6 +1,3 @@
-import re
-
-
 def make_chai():
     return "Here is your chai"
 
